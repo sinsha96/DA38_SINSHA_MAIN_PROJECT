@@ -85,4 +85,4 @@ The project successfully transformed employee workforce data into meaningful ins
 
 ## Author
 
-Jinsha S
+Sinsha S
